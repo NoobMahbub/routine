@@ -1,0 +1,10 @@
+  tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+ .classLoad{
+     padding: 5px;
+ }
+ a{
+   text-decoration: none;
+ }
